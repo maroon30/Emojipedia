@@ -1,0 +1,33 @@
+
+* {
+	user-select: none;
+}
+
+#cards {
+	background: #c0d2d4;
+  	color: #555;
+	font-family: 'Montserrat', sans-serif;
+	padding: 20px 30px 20px;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3rem;
+	padding: 5px 15px;
+}
+
+.cards-column {
+	padding: 3% 2%;
+}
+
+.card-header {
+	color: #2ec2b0;
+}
+
+#footer {
+	background: #2ec2b0;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.2rem;	text-align: center;
+	padding: 10px;
+}
